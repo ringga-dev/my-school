@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Olsera New</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="no_data">No Data</string>
+    <string name="email">Email</string>
+    <string name="insert_email_here">Insert email here</string>
+    <string name="store_id">Store ID</string>
+    <string name="insert_store_id">Insert store id</string>
+    <string name="staff_code">Staff code</string>
+    <string name="insert_staff_code">Insert staff code</string>
+    <string name="password">Password</string>
+    <string name="insert_password_here">Insert password here</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="remember_me">Remember me</string>
+    <string name="email_empty_error">Email should not be empty</string>
+    <string name="password_empty_error">Password should not be empty</string>
+    <string name="login_with_staff_code">Login with staff code</string>
+    <string name="login_with_email">Login with Email</string>
+    <string name="store_id_empty_error">Store id should not be empty</string>
+    <string name="staff_code_empty_error">Staff code should not be empty</string>
+    <string name="choose_store">Choose store</string>
+    <string name="welcome_name">Welcome, %1$s!</string>
+    <string name="welcome_name2">Welcome,\n%1$s!</string>
+</resources>

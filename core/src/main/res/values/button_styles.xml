@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PrimaryButton" parent="Widget.Material3.Button">
+        <item name="android:minHeight">56dp</item>
+        <item name="android:textAppearance">@style/button_big</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="backgroundTint">@color/button_primary_background</item>
+        <item name="rippleColor">@color/ripple_light</item>
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="cornerRadius">5dp</item>
+    </style>
+
+    <style name="PrimaryButton.Small" parent="PrimaryButton">
+        <item name="android:minHeight">40dp</item>
+        <item name="android:textAppearance">@style/button</item>
+    </style>
+
+
+    <style name="SecondaryButton" parent="Widget.Material3.Button">
+        <item name="android:minHeight">56dp</item>
+        <item name="android:textAppearance">@style/button_big</item>
+        <item name="backgroundTint">@color/button_primary_background</item>
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="rippleColor">@color/ripple_dark</item>
+        <item name="cornerRadius">5dp</item>
+    </style>
+
+    <style name="SecondaryButton.Small" parent="SecondaryButton">
+        <item name="android:minHeight">40dp</item>
+        <item name="android:textAppearance">@style/button</item>
+    </style>
+
+
+    <style name="OutlinedButton" parent="Widget.Material3.Button">
+        <item name="android:minHeight">56dp</item>
+        <item name="android:textAppearance">@style/button_big</item>
+        <item name="rippleColor">@color/ripple_dark</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/button_outline_stroke</item>
+        <item name="backgroundTint">@color/button_outline_background</item>
+        <item name="android:textColor">@color/button_outline_text</item>
+        <item name="cornerRadius">5dp</item>
+    </style>
+
+    <style name="OutlinedButton.Small" parent="OutlinedButton">
+        <item name="android:minHeight">40dp</item>
+        <item name="android:textAppearance">@style/button</item>
+    </style>
+
+
+    <style name="TextButton" parent="Widget.Material3.Button">
+        <item name="android:minHeight">56dp</item>
+        <item name="android:textAppearance">@style/button_big</item>
+        <item name="rippleColor">@color/ripple_dark</item>
+        <item name="backgroundTint">@color/button_text_background</item>
+        <item name="android:textColor">@color/button_text_text</item>
+        <item name="cornerRadius">5dp</item>
+    </style>
+
+    <style name="TextButton.Small" parent="TextButton">
+        <item name="android:minHeight">40dp</item>
+        <item name="android:textAppearance">@style/button</item>
+    </style>
+
+
+    <style name="DeletionButton" parent="Widget.Material3.Button">
+        <item name="android:minHeight">56dp</item>
+        <item name="android:textAppearance">@style/button_big</item>
+        <item name="rippleColor">@color/ripple_dark</item>
+        <item name="backgroundTint">@color/button_deletion_background</item>
+        <item name="android:textColor">@color/button_deletion_text</item>
+        <item name="cornerRadius">5dp</item>
+    </style>
+
+    <style name="DeletionButton.Small" parent="DeletionButton">
+        <item name="android:minHeight">40dp</item>
+        <item name="android:textAppearance">@style/button</item>
+    </style>
+
+
+    <style name="TertiaryButton" parent="Widget.Material3.Button">
+        <item name="android:minHeight">56dp</item>
+        <item name="android:textAppearance">@style/button_big</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="backgroundTint">@color/button_tertiary_background</item>
+        <item name="android:textColor">@color/button_tertiary_text</item>
+        <item name="rippleColor">@color/ripple_light</item>
+        <item name="cornerRadius">5dp</item>
+    </style>
+
+    <style name="TertiaryButton.Small" parent="TertiaryButton">
+        <item name="android:minHeight">40dp</item>
+        <item name="android:textAppearance">@style/button</item>
+    </style>
+
+    <style name="Button.IconOnly" parent="Widget.Material3.Button.Icon">
+        <item name="iconPadding">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:minWidth">48dp</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+
+</resources>

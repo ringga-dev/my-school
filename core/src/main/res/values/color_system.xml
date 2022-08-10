@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--DESIGN SYSTEM COLOR. Don't add anything here!-->
+
+    <color name="brand">#0078CE</color>
+    <color name="brand_soft">#E5F4FF</color>
+    <color name="brand_dark">#005999</color>
+    <color name="accent">#1FAD1F</color>
+    <color name="accent_soft">#E9FBE9</color>
+    <color name="accent_dark">#178217</color>
+
+    <color name="black">#272727</color>
+    <color name="grey_content">#808080</color>
+    <color name="grey_border_hover">#AFB0AF</color>
+    <color name="grey_border">#CECECE</color>
+    <color name="grey_foreground">#F5F5F5</color>
+    <color name="grey_background">#FAFAFA</color>
+    <color name="grey_ground">#FAFAFA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange">#FF931E</color>
+    <color name="orange_soft">#FFF2E3</color>
+    <color name="orange_dark">#F0820A</color>
+    <color name="red">#F44336</color>
+    <color name="red_soft">#FEE8E6</color>
+    <color name="red_dark">#D81002</color>
+    <color name="yellow">#FFE45B</color>
+    <color name="overlay_dark">#8C272727</color>
+    <color name="overlay_light">#8CFFFFFF</color>
+    <color name="hover">#d3d3d3</color>
+
+    <color name="grey_disable_foreground">#adadad</color>
+    <color name="grey_disable_background">#d6d6d6</color>
+    <color name="brand_gradient_start">#0078CE</color>
+    <color name="brand_gradient_end">#0068B2</color>
+    <color name="accent_gradient_start">#3CBE30</color>
+    <color name="accent_gradient_end">#439D16</color>
+
+    <color name="ripple_dark">#959595</color>
+    <color name="ripple_light">#E0E0E0</color>
+
+</resources>

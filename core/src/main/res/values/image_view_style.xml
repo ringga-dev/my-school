@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ImageCircle">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="ImageRound5">
+        <item name="cornerSize">5dp</item>
+    </style>
+
+    <style name="ImageRound8">
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <style name="ImageRound12">
+        <item name="cornerSize">12dp</item>
+    </style>
+
+    <style name="ImageRound16">
+        <item name="cornerSize">16dp</item>
+    </style>
+
+</resources>

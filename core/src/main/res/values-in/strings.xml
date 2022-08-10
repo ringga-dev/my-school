@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olsera New</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Pemberitahuan</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="email">Email</string>
+    <string name="insert_email_here">Masukan email</string>
+    <string name="store_id">Store ID</string>
+    <string name="insert_store_id">Masukan store id</string>
+    <string name="staff_code">Kode staff</string>
+    <string name="insert_staff_code">Masukan kode staff</string>
+    <string name="password">Password</string>
+    <string name="insert_password_here">Masukan password</string>
+    <string name="login">Masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="remember_me">Ingat saya</string>
+    <string name="email_empty_error">Email tidak boleh kosong</string>
+    <string name="password_empty_error">Password tidak boleh kosong</string>
+    <string name="login_with_staff_code">Masuk dengan kode staff</string>
+    <string name="login_with_email">Masuk dengan email</string>
+    <string name="store_id_empty_error">Store id tidak boleh kosong</string>
+    <string name="staff_code_empty_error">Kode staff tidak boleh kosong</string>
+    <string name="choose_store">Pilih toko</string>
+    <string name="welcome_name">Selamat datang, %1$s!</string>
+    <string name="welcome_name2">Selamat datang,\n%1$s!</string>
+</resources>
