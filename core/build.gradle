@@ -14,14 +14,8 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
     }
-
     buildTypes {
-        debug {
-            buildConfigField 'String', 'API_URL', '\"https://api-pos.all.olsera.indociti.com/\"'
-        }
         release {
-            it.buildConfigField 'String', 'API_URL', '\"https://api-pos.olsera.co.id/\"'
-
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }

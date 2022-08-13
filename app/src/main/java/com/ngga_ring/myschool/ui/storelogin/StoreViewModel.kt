@@ -1,4 +1,4 @@
-package com.ngga_ring.myschool.activity.storelogin
+package com.ngga_ring.myschool.ui.storelogin
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.asLiveData

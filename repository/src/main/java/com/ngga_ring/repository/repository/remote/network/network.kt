@@ -3,7 +3,7 @@ package com.ngga_ring.repository.repository.remote.network
 import android.content.Context
 import com.chuckerteam.chucker.api.ChuckerCollector
 import com.chuckerteam.chucker.api.ChuckerInterceptor
-import com.ngga_ring.core.BuildConfig
+import com.ngga_ring.repository.BuildConfig
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
